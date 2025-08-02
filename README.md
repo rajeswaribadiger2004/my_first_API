@@ -1,5 +1,5 @@
 # my_first_API
-definition api:interface for request and response
+ definition api:interface for request and response
 
 basics:GET aND PUT,REQUEST & RESPONSE 
 GET:retrieve data,PUT:send data PUT:send data to server
